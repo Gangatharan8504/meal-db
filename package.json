@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gangatharanM.github.io/meal-db",
+"homepage": "https://gangatharan8504.github.io/meal-db",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
